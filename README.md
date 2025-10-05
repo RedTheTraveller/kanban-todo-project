@@ -9,7 +9,7 @@
 - 📚 Auto-generated API documentation
 
 ## Công nghệ sử dụng
-- **Backend**: FastAPI, Python 3.8+
+- **Backend**: FastAPI, Python 3.8+git commit
 - **Database**: SQLite (development)
 - **Documentation**: Swagger UI, ReDoc
 
